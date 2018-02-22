@@ -1,0 +1,29 @@
+{
+  "name": "tcomb-validators",
+  "version": "1.0.0",
+  "description": "Ready, customizable and scalable validators to use with tcomb forms system.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MomenYasser/tcomb-validators.git"
+  },
+  "keywords": [
+    "tcomb",
+    "tcomb-form",
+    "tcomb-validation",
+    "react"
+  ],
+  "author": "Momen Yasser ( momenysr@gmail.com )",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MomenYasser/tcomb-validators/issues"
+  },
+  "homepage": "https://github.com/MomenYasser/tcomb-validators#readme",
+  "dependencies": {
+    "lodash": "^4.17.5",
+    "moment": "^2.20.1"
+  }
+}
