@@ -25,5 +25,14 @@ Ready, customizable and scalable validators to use with tcomb forms system or as
         Max(10),
         Email()
       ])
-    })`;
+    })`
 
+
+## Validators
+|  Validator | Description  | Parameters  |
+| :------------ | :------------ | :------------ |
+| Email  | If valid email  | -  |
+|  Min | validate input min lenght  | 1 param -> `Number`  |
+|  Max | validate input max lenght  | 1 param -> `Number`  |
+
+** Validators will be updated every period. **
